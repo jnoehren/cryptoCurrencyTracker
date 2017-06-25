@@ -1,0 +1,802 @@
+{
+  "Bitcoin": {
+    "number": "1",
+    "marketCap": "$43,036,505,206",
+    "price": "$2622.59",
+    "circulatingSupply": "16,409,925BTC",
+    "volume": "$1,025,310,000",
+    "percentChange": "-4.59%"
+  },
+  "Ethereum": {
+    "number": "2",
+    "marketCap": "$30,592,493,978",
+    "price": "$329.77",
+    "circulatingSupply": "92,770,028ETH",
+    "volume": "$814,443,000",
+    "percentChange": "-3.70%"
+  },
+  "Ripple": {
+    "number": "3",
+    "marketCap": "$11,821,815,027",
+    "price": "$0.308733",
+    "circulatingSupply": "38,291,387,790XRP",
+    "volume": "$241,082,000",
+    "percentChange": "-4.55%"
+  },
+  "Litecoin": {
+    "number": "4",
+    "marketCap": "$2,346,132,514",
+    "price": "$45.38",
+    "circulatingSupply": "51,704,032LTC",
+    "volume": "$343,877,000",
+    "percentChange": "-3.14%"
+  },
+  "Ethereum Classic": {
+    "number": "5",
+    "marketCap": "$1,867,620,834",
+    "price": "$20.10",
+    "circulatingSupply": "92,930,792ETC",
+    "volume": "$100,423,000",
+    "percentChange": "-5.60%"
+  },
+  "NEM": {
+    "number": "6",
+    "marketCap": "$1,676,997,000",
+    "price": "$0.186333",
+    "circulatingSupply": "8,999,999,999XEM",
+    "volume": "$7,641,050",
+    "percentChange": "-6.55%"
+  },
+  "IOTA": {
+    "number": "7",
+    "marketCap": "$1,410,664,430",
+    "price": "$0.507519",
+    "circulatingSupply": "2,779,530,283MIOTA",
+    "volume": "$15,218,800",
+    "percentChange": "-8.55%"
+  },
+  "Dash": {
+    "number": "8",
+    "marketCap": "$1,335,554,755",
+    "price": "$180.90",
+    "circulatingSupply": "7,383,039DASH",
+    "volume": "$37,703,900",
+    "percentChange": "-3.03%"
+  },
+  "BitShares": {
+    "number": "9",
+    "marketCap": "$821,125,145",
+    "price": "$0.316265",
+    "circulatingSupply": "2,596,320,000BTS",
+    "volume": "$52,302,400",
+    "percentChange": "-3.46%"
+  },
+  "Stratis": {
+    "number": "10",
+    "marketCap": "$743,036,314",
+    "price": "$7.55",
+    "circulatingSupply": "98,437,831STRAT",
+    "volume": "$7,872,820",
+    "percentChange": "-9.61%"
+  },
+  "Monero": {
+    "number": "11",
+    "marketCap": "$699,130,075",
+    "price": "$47.62",
+    "circulatingSupply": "14,681,438XMR",
+    "volume": "$8,294,910",
+    "percentChange": "-6.67%"
+  },
+  "Zcash": {
+    "number": "12",
+    "marketCap": "$554,045,440",
+    "price": "$356.89",
+    "circulatingSupply": "1,552,444ZEC",
+    "volume": "$17,351,200",
+    "percentChange": "-6.77%"
+  },
+  "Golem": {
+    "number": "13",
+    "marketCap": "$511,709,849",
+    "price": "$0.617074",
+    "circulatingSupply": "829,252,000GNT",
+    "volume": "$7,389,850",
+    "percentChange": "-8.70%"
+  },
+  "Bytecoin": {
+    "number": "14",
+    "marketCap": "$500,235,119",
+    "price": "$0.002733",
+    "circulatingSupply": "183,057,943,231BCN",
+    "volume": "$2,536,550",
+    "percentChange": "-1.72%"
+  },
+  "Siacoin": {
+    "number": "15",
+    "marketCap": "$488,266,921",
+    "price": "$0.017951",
+    "circulatingSupply": "27,199,984,460SC",
+    "volume": "$17,042,300",
+    "percentChange": "-6.56%"
+  },
+  "Waves": {
+    "number": "16",
+    "marketCap": "$487,690,000",
+    "price": "$4.88",
+    "circulatingSupply": "100,000,000WAVES",
+    "volume": "$2,619,200",
+    "percentChange": "-7.15%"
+  },
+  "Steem": {
+    "number": "17",
+    "marketCap": "$480,842,590",
+    "price": "$2.05",
+    "circulatingSupply": "235,005,591STEEM",
+    "volume": "$2,839,310",
+    "percentChange": "-7.79%"
+  },
+  "Iconomi": {
+    "number": "18",
+    "marketCap": "$391,878,450",
+    "price": "$4.50",
+    "circulatingSupply": "87,000,000ICN",
+    "volume": "$2,635,260",
+    "percentChange": "-7.53%"
+  },
+  "Stellar Lumens": {
+    "number": "19",
+    "marketCap": "$371,229,371",
+    "price": "$0.038081",
+    "circulatingSupply": "9,748,542,451XLM",
+    "volume": "$6,403,350",
+    "percentChange": "-7.31%"
+  },
+  "Lisk": {
+    "number": "20",
+    "marketCap": "$359,590,133",
+    "price": "$3.31",
+    "circulatingSupply": "108,754,800LSK",
+    "volume": "$6,828,230",
+    "percentChange": "-3.57%"
+  },
+  "BitConnect": {
+    "number": "21",
+    "marketCap": "$356,811,263",
+    "price": "$52.72",
+    "circulatingSupply": "6,767,710BCC",
+    "volume": "$2,276,850",
+    "percentChange": "-5.82%"
+  },
+  "Dogecoin": {
+    "number": "22",
+    "marketCap": "$343,713,371",
+    "price": "$0.003126",
+    "circulatingSupply": "109,952,038,479DOGE",
+    "volume": "$12,740,000",
+    "percentChange": "-0.24%"
+  },
+  "Augur": {
+    "number": "23",
+    "marketCap": "$324,995,000",
+    "price": "$29.55",
+    "circulatingSupply": "11,000,000REP",
+    "volume": "$2,526,510",
+    "percentChange": "-6.15%"
+  },
+  "AntShares": {
+    "number": "24",
+    "marketCap": "$312,113,000",
+    "price": "$6.24",
+    "circulatingSupply": "50,000,000ANS",
+    "volume": "$25,858,800",
+    "percentChange": "-8.91%"
+  },
+  "GameCredits": {
+    "number": "25",
+    "marketCap": "$269,999,124",
+    "price": "$4.27",
+    "circulatingSupply": "63,275,508GAME",
+    "volume": "$4,076,820",
+    "percentChange": "-8.85%"
+  },
+  "Factom": {
+    "number": "26",
+    "marketCap": "$266,156,504",
+    "price": "$30.41",
+    "circulatingSupply": "8,753,219FCT",
+    "volume": "$3,693,400",
+    "percentChange": "-11.37%"
+  },
+  "Ardor": {
+    "number": "27",
+    "marketCap": "$261,795,810",
+    "price": "$0.262058",
+    "circulatingSupply": "998,999,495ARDR",
+    "volume": "$4,350,430",
+    "percentChange": "-3.26%"
+  },
+  "Gnosis": {
+    "number": "28",
+    "marketCap": "$237,940,836",
+    "price": "$215.41",
+    "circulatingSupply": "1,104,590GNO",
+    "volume": "$1,204,810",
+    "percentChange": "-6.39%"
+  },
+  "MaidSafeCoin": {
+    "number": "29",
+    "marketCap": "$228,680,164",
+    "price": "$0.505312",
+    "circulatingSupply": "452,552,412MAID",
+    "volume": "$2,597,580",
+    "percentChange": "-9.50%"
+  },
+  "DigiByte": {
+    "number": "30",
+    "marketCap": "$226,576,802",
+    "price": "$0.026078",
+    "circulatingSupply": "8,688,460,433DGB",
+    "volume": "$9,596,520",
+    "percentChange": "-9.85%"
+  },
+  "Decred": {
+    "number": "31",
+    "marketCap": "$223,533,210",
+    "price": "$43.11",
+    "circulatingSupply": "5,184,737DCR",
+    "volume": "$1,592,420",
+    "percentChange": "-10.19%"
+  },
+  "Komodo": {
+    "number": "32",
+    "marketCap": "$213,031,366",
+    "price": "$2.11",
+    "circulatingSupply": "100,945,510KMD",
+    "volume": "$850,960",
+    "percentChange": "-4.49%"
+  },
+  "Byteball": {
+    "number": "33",
+    "marketCap": "$189,389,772",
+    "price": "$741.27",
+    "circulatingSupply": "255,492GBYTE",
+    "volume": "$377,388",
+    "percentChange": "-4.18%"
+  },
+  "Basic Attenti...": {
+    "number": "34",
+    "marketCap": "$186,745,000",
+    "price": "$0.186745",
+    "circulatingSupply": "1,000,000,000BAT",
+    "volume": "$2,202,270",
+    "percentChange": "-5.94%"
+  },
+  "DigixDAO": {
+    "number": "35",
+    "marketCap": "$180,451,400",
+    "price": "$90.23",
+    "circulatingSupply": "2,000,000DGD",
+    "volume": "$688,442",
+    "percentChange": "-6.13%"
+  },
+  "Nxt": {
+    "number": "36",
+    "marketCap": "$179,428,389",
+    "price": "$0.179608",
+    "circulatingSupply": "998,999,983NXT",
+    "volume": "$12,335,200",
+    "percentChange": "-0.59%"
+  },
+  "Numeraire": {
+    "number": "37",
+    "marketCap": "$169,029,574",
+    "price": "$138.16",
+    "circulatingSupply": "1,223,451NMR",
+    "volume": "$27,202,900",
+    "percentChange": "94.07%"
+  },
+  "FirstBlood": {
+    "number": "38",
+    "marketCap": "$168,971,793",
+    "price": "$1.97",
+    "circulatingSupply": "85,558,3711ST",
+    "volume": "$12,226,300",
+    "percentChange": "-8.08%"
+  },
+  "Veritaseum": {
+    "number": "39",
+    "marketCap": "$160,412,053",
+    "price": "$81.54",
+    "circulatingSupply": "1,967,276VERI",
+    "volume": "$484,405",
+    "percentChange": "-5.95%"
+  },
+  "MobileGo": {
+    "number": "40",
+    "marketCap": "$158,968,600",
+    "price": "$2.27",
+    "circulatingSupply": "70,000,000MGO",
+    "volume": "$1,039,170",
+    "percentChange": "-9.98%"
+  },
+  "Tether": {
+    "number": "41",
+    "marketCap": "$146,722,432",
+    "price": "$1.01",
+    "circulatingSupply": "144,693,825USDT",
+    "volume": "$92,944,100",
+    "percentChange": "0.59%"
+  },
+  "SingularDTV": {
+    "number": "42",
+    "marketCap": "$124,042,200",
+    "price": "$0.206737",
+    "circulatingSupply": "600,000,000SNGLS",
+    "volume": "$566,889",
+    "percentChange": "-8.55%"
+  },
+  "SysCoin": {
+    "number": "43",
+    "marketCap": "$118,116,780",
+    "price": "$0.224693",
+    "circulatingSupply": "525,680,727SYS",
+    "volume": "$2,905,020",
+    "percentChange": "-7.67%"
+  },
+  "BitcoinDark": {
+    "number": "44",
+    "marketCap": "$110,579,735",
+    "price": "$85.80",
+    "circulatingSupply": "1,288,862BTCD",
+    "volume": "$562,329",
+    "percentChange": "-2.36%"
+  },
+  "PIVX": {
+    "number": "45",
+    "marketCap": "$105,477,262",
+    "price": "$1.96",
+    "circulatingSupply": "53,705,327PIVX",
+    "volume": "$1,008,520",
+    "percentChange": "3.53%"
+  },
+  "Aragon": {
+    "number": "46",
+    "marketCap": "$90,179,130",
+    "price": "$2.68",
+    "circulatingSupply": "33,605,167ANT",
+    "volume": "$1,071,580",
+    "percentChange": "-9.74%"
+  },
+  "Ubiq": {
+    "number": "47",
+    "marketCap": "$78,986,513",
+    "price": "$2.12",
+    "circulatingSupply": "37,282,762UBQ",
+    "volume": "$543,344",
+    "percentChange": "-7.17%"
+  },
+  "MCAP": {
+    "number": "48",
+    "marketCap": "$76,931,980",
+    "price": "$4.88",
+    "circulatingSupply": "15,764,685MCAP",
+    "volume": "$130,723",
+    "percentChange": "-9.31%"
+  },
+  "Peercoin": {
+    "number": "49",
+    "marketCap": "$75,568,314",
+    "price": "$3.13",
+    "circulatingSupply": "24,169,563PPC",
+    "volume": "$6,452,170",
+    "percentChange": "-5.06%"
+  },
+  "Emercoin": {
+    "number": "50",
+    "marketCap": "$74,822,091",
+    "price": "$1.86",
+    "circulatingSupply": "40,301,033EMC",
+    "volume": "$3,147,410",
+    "percentChange": "-9.33%"
+  },
+  "Peerplays": {
+    "number": "51",
+    "marketCap": "$70,148,704",
+    "price": "$19.31",
+    "circulatingSupply": "3,633,387PPY",
+    "volume": "$7,486",
+    "percentChange": "-2.54%"
+  },
+  "Round": {
+    "number": "52",
+    "marketCap": "$66,502,470",
+    "price": "$0.078238",
+    "circulatingSupply": "850,000,000ROUND",
+    "volume": "$387,192",
+    "percentChange": "-6.50%"
+  },
+  "Ark": {
+    "number": "53",
+    "marketCap": "$65,554,031",
+    "price": "$0.684265",
+    "circulatingSupply": "95,802,110ARK",
+    "volume": "$589,976",
+    "percentChange": "-9.61%"
+  },
+  "Lykke": {
+    "number": "54",
+    "marketCap": "$65,238,889",
+    "price": "$0.399078",
+    "circulatingSupply": "163,474,031LKK",
+    "volume": "$730,268",
+    "percentChange": "0.49%"
+  },
+  "iExec RLC": {
+    "number": "55",
+    "marketCap": "$56,554,515",
+    "price": "$0.715239",
+    "circulatingSupply": "79,070,793RLC",
+    "volume": "$419,303",
+    "percentChange": "-11.62%"
+  },
+  "Storjcoin X": {
+    "number": "56",
+    "marketCap": "$54,301,870",
+    "price": "$1.06",
+    "circulatingSupply": "51,173,144SJCX",
+    "volume": "$438,812",
+    "percentChange": "-7.41%"
+  },
+  "ReddCoin": {
+    "number": "57",
+    "marketCap": "$53,695,992",
+    "price": "$0.001881",
+    "circulatingSupply": "28,545,147,527RDD",
+    "volume": "$1,140,120",
+    "percentChange": "-10.11%"
+  },
+  "Melon": {
+    "number": "58",
+    "marketCap": "$52,663,404",
+    "price": "$87.86",
+    "circulatingSupply": "599,400MLN",
+    "volume": "$330,006",
+    "percentChange": "-4.78%"
+  },
+  "Quantum Resis...": {
+    "number": "59",
+    "marketCap": "$51,898,600",
+    "price": "$0.998050",
+    "circulatingSupply": "52,000,000QRL",
+    "volume": "$910,852",
+    "percentChange": "-19.56%"
+  },
+  "Nexus": {
+    "number": "60",
+    "marketCap": "$49,957,195",
+    "price": "$0.990362",
+    "circulatingSupply": "50,443,368NXS",
+    "volume": "$119,558",
+    "percentChange": "4.70%"
+  },
+  "LBRY Credits": {
+    "number": "61",
+    "marketCap": "$49,193,482",
+    "price": "$0.717896",
+    "circulatingSupply": "68,524,524LBC",
+    "volume": "$4,007,520",
+    "percentChange": "-11.51%"
+  },
+  "Asch": {
+    "number": "62",
+    "marketCap": "$49,146,525",
+    "price": "$0.655287",
+    "circulatingSupply": "75,000,000XAS",
+    "volume": "$1,511,780",
+    "percentChange": "-5.70%"
+  },
+  "Wings": {
+    "number": "63",
+    "marketCap": "$48,663,541",
+    "price": "$0.542464",
+    "circulatingSupply": "89,708,333WINGS",
+    "volume": "$553,878",
+    "percentChange": "-7.03%"
+  },
+  "Synereo": {
+    "number": "64",
+    "marketCap": "$48,194,556",
+    "price": "$0.585907",
+    "circulatingSupply": "82,256,324AMP",
+    "volume": "$1,218,740",
+    "percentChange": "-10.73%"
+  },
+  "LEOcoin": {
+    "number": "65",
+    "marketCap": "$47,544,747",
+    "price": "$0.555728",
+    "circulatingSupply": "85,553,989LEO",
+    "volume": "$82,866",
+    "percentChange": "-3.20%"
+  },
+  "Namecoin": {
+    "number": "66",
+    "marketCap": "$47,294,855",
+    "price": "$3.21",
+    "circulatingSupply": "14,736,400NMC",
+    "volume": "$4,227,260",
+    "percentChange": "-10.67%"
+  },
+  "Counterparty": {
+    "number": "67",
+    "marketCap": "$45,484,813",
+    "price": "$17.37",
+    "circulatingSupply": "2,618,600XCP",
+    "volume": "$1,070,160",
+    "percentChange": "-6.32%"
+  },
+  "BitBay": {
+    "number": "68",
+    "marketCap": "$44,595,933",
+    "price": "$0.044261",
+    "circulatingSupply": "1,007,567,223BAY",
+    "volume": "$894,311",
+    "percentChange": "-4.71%"
+  },
+  "BlackCoin": {
+    "number": "69",
+    "marketCap": "$44,475,379",
+    "price": "$0.583568",
+    "circulatingSupply": "76,212,847BLK",
+    "volume": "$6,810,120",
+    "percentChange": "11.18%"
+  },
+  "Verge": {
+    "number": "70",
+    "marketCap": "$44,215,321",
+    "price": "$0.003297",
+    "circulatingSupply": "13,409,472,280XVG",
+    "volume": "$1,536,560",
+    "percentChange": "-11.34%"
+  },
+  "Edgeless": {
+    "number": "71",
+    "marketCap": "$42,667,053",
+    "price": "$0.522028",
+    "circulatingSupply": "81,733,265EDG",
+    "volume": "$2,455,570",
+    "percentChange": "10.62%"
+  },
+  "Mysterium": {
+    "number": "72",
+    "marketCap": "$42,133,199",
+    "price": "$2.17",
+    "circulatingSupply": "19,429,024MYST",
+    "volume": "$1,351,530",
+    "percentChange": "-11.16%"
+  },
+  "Omni": {
+    "number": "73",
+    "marketCap": "$42,062,688",
+    "price": "$75.22",
+    "circulatingSupply": "559,160OMNI",
+    "volume": "$4,637,310",
+    "percentChange": "7.25%"
+  },
+  "ZCoin": {
+    "number": "74",
+    "marketCap": "$39,538,798",
+    "price": "$16.45",
+    "circulatingSupply": "2,404,100XZC",
+    "volume": "$5,853,440",
+    "percentChange": "-1.43%"
+  },
+  "Viacoin": {
+    "number": "75",
+    "marketCap": "$38,984,717",
+    "price": "$1.72",
+    "circulatingSupply": "22,697,336VIA",
+    "volume": "$1,559,360",
+    "percentChange": "-3.12%"
+  },
+  "Gulden": {
+    "number": "76",
+    "marketCap": "$37,795,754",
+    "price": "$0.108649",
+    "circulatingSupply": "347,870,245NLG",
+    "volume": "$123,143",
+    "percentChange": "-5.94%"
+  },
+  "Burst": {
+    "number": "77",
+    "marketCap": "$36,267,290",
+    "price": "$0.020217",
+    "circulatingSupply": "1,793,918,438BURST",
+    "volume": "$6,714,640",
+    "percentChange": "-15.03%"
+  },
+  "Cofound.it": {
+    "number": "78",
+    "marketCap": "$36,033,875",
+    "price": "$0.288271",
+    "circulatingSupply": "125,000,000CFI",
+    "volume": "$3,978,350",
+    "percentChange": "12.98%"
+  },
+  "CloakCoin": {
+    "number": "79",
+    "marketCap": "$35,520,908",
+    "price": "$7.05",
+    "circulatingSupply": "5,038,520CLOAK",
+    "volume": "$502,026",
+    "percentChange": "-2.51%"
+  },
+  "Vertcoin": {
+    "number": "80",
+    "marketCap": "$34,981,250",
+    "price": "$0.943299",
+    "circulatingSupply": "37,083,947VTC",
+    "volume": "$4,639,100",
+    "percentChange": "-9.67%"
+  },
+  "MonaCoin": {
+    "number": "81",
+    "marketCap": "$33,341,019",
+    "price": "$0.646368",
+    "circulatingSupply": "51,582,100MONA",
+    "volume": "$678,716",
+    "percentChange": "4.80%"
+  },
+  "Xaurum": {
+    "number": "82",
+    "marketCap": "$32,753,518",
+    "price": "$0.259353",
+    "circulatingSupply": "126,289,335XAUR",
+    "volume": "$90,035",
+    "percentChange": "-4.68%"
+  },
+  "EarthCoin": {
+    "number": "83",
+    "marketCap": "$32,633,568",
+    "price": "$0.003492",
+    "circulatingSupply": "9,346,468,332EAC",
+    "volume": "$18,262,900",
+    "percentChange": "28.90%"
+  },
+  "Blocknet": {
+    "number": "84",
+    "marketCap": "$32,600,930",
+    "price": "$8.24",
+    "circulatingSupply": "3,956,222BLOCK",
+    "volume": "$198,469",
+    "percentChange": "20.92%"
+  },
+  "GridCoin": {
+    "number": "85",
+    "marketCap": "$30,304,233",
+    "price": "$0.077641",
+    "circulatingSupply": "390,312,753GRC",
+    "volume": "$430,621",
+    "percentChange": "-8.77%"
+  },
+  "OBITS": {
+    "number": "86",
+    "marketCap": "$29,656,556",
+    "price": "$1.80",
+    "circulatingSupply": "16,440,700OBITS",
+    "volume": "$275,336",
+    "percentChange": "-7.41%"
+  },
+  "vSlice": {
+    "number": "87",
+    "marketCap": "$29,399,798",
+    "price": "$0.880484",
+    "circulatingSupply": "33,390,496VSL",
+    "volume": "$311,043",
+    "percentChange": "-0.25%"
+  },
+  "Etheroll": {
+    "number": "88",
+    "marketCap": "$29,324,126",
+    "price": "$4.19",
+    "circulatingSupply": "7,001,623DICE",
+    "volume": "$80,839",
+    "percentChange": "-4.23%"
+  },
+  "YbCoin": {
+    "number": "89",
+    "marketCap": "$29,196,504",
+    "price": "$9.67",
+    "circulatingSupply": "3,020,405YBC",
+    "volume": "$4,931,760",
+    "percentChange": "-3.41%"
+  },
+  "NAV Coin": {
+    "number": "90",
+    "marketCap": "$28,413,964",
+    "price": "$0.462639",
+    "circulatingSupply": "61,417,139NAV",
+    "volume": "$455,423",
+    "percentChange": "-4.73%"
+  },
+  "WeTrust": {
+    "number": "91",
+    "marketCap": "$28,369,359",
+    "price": "$0.307869",
+    "circulatingSupply": "92,147,500TRST",
+    "volume": "$354,969",
+    "percentChange": "-4.68%"
+  },
+  "PotCoin": {
+    "number": "92",
+    "marketCap": "$27,702,556",
+    "price": "$0.127543",
+    "circulatingSupply": "217,201,700POT",
+    "volume": "$555,050",
+    "percentChange": "-9.22%"
+  },
+  "Humaniq": {
+    "number": "93",
+    "marketCap": "$27,273,403",
+    "price": "$0.182478",
+    "circulatingSupply": "149,461,321HMQ",
+    "volume": "$664,161",
+    "percentChange": "-4.78%"
+  },
+  "Matchpool": {
+    "number": "94",
+    "marketCap": "$26,495,850",
+    "price": "$0.353278",
+    "circulatingSupply": "75,000,000GUP",
+    "volume": "$320,011",
+    "percentChange": "-3.81%"
+  },
+  "LuckChain": {
+    "number": "95",
+    "marketCap": "$26,231,898",
+    "price": "$0.036282",
+    "circulatingSupply": "723,008,300BASH",
+    "volume": "$5,239,510",
+    "percentChange": "-15.11%"
+  },
+  "TokenCard": {
+    "number": "96",
+    "marketCap": "$25,921,215",
+    "price": "$1.10",
+    "circulatingSupply": "23,644,056TKN",
+    "volume": "$355,046",
+    "percentChange": "-12.27%"
+  },
+  "Expanse": {
+    "number": "97",
+    "marketCap": "$25,544,810",
+    "price": "$3.44",
+    "circulatingSupply": "7,429,423EXP",
+    "volume": "$574,334",
+    "percentChange": "-14.06%"
+  },
+  "DigitalNote": {
+    "number": "98",
+    "marketCap": "$24,113,250",
+    "price": "$0.003503",
+    "circulatingSupply": "6,882,754,836XDN",
+    "volume": "$1,117,490",
+    "percentChange": "-9.33%"
+  },
+  "E-Dinar Coin": {
+    "number": "99",
+    "marketCap": "$23,918,684",
+    "price": "$0.026990",
+    "circulatingSupply": "886,211,988EDR",
+    "volume": "$430,338",
+    "percentChange": "-1.37%"
+  },
+  "I/O Coin": {
+    "number": "100",
+    "marketCap": "$23,714,784",
+    "price": "$1.45",
+    "circulatingSupply": "16,343,414IOC",
+    "volume": "$112,379",
+    "percentChange": "-15.68%"
+  }
+}
